@@ -12,6 +12,5 @@ A custom process-scheduling and sorting application engineered in MATLAB to opti
 
 ## File Structure
 
-- resource_allocation.m - The main driver script that initializes the process queue and runs the scheduling lifecycle.
-- custom_sort.m - Processes and sequences data using low-level nested loop logic.
-- validate_inputs.m - Handles input integrity verification and checks boundary constraints.
+- Ma6.m - The main driver script that initializes the process queue, handles algorithmic sorting, and runs the scheduling lifecycle.
+- Processes.mat - The data file containing the matrix structure of system processes and execution parameters.
