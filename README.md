@@ -1,2 +1,17 @@
-# resource-allocation-sorting-matlab
+# System Resource Allocation & Sorting Algorithm
+
+## Project Overview
+
 A custom process-scheduling and sorting application engineered in MATLAB to optimize dual-core resource allocation using algorithmic constraints.
+
+## Key Features
+
+- *Algorithmic Sorting Engine:* Devised a custom bubble sort algorithm to organize system processes and manage data sequentially using complex nested loops without prohibited built-in functions.
+- *Dual-Core Resource Allocation:* Engineered scheduling logic designed to split, balance, and map the sorted processing load across a simulated dual-core CPU architecture efficiently.
+- *Robust Data Validation:* Implemented a comprehensive data-checking pipeline to parse input matrices, enforce strict integrity limits, and handle anomalies before processing begins.
+
+## File Structure
+
+- resource_allocation.m - The main driver script that initializes the process queue and runs the scheduling lifecycle.
+- custom_sort.m - Processes and sequences data using low-level nested loop logic.
+- validate_inputs.m - Handles input integrity verification and checks boundary constraints.
