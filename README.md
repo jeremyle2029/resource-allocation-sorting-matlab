@@ -6,9 +6,9 @@ A custom process-scheduling and sorting application engineered in MATLAB to opti
 
 ## Key Features
 
-- *Algorithmic Sorting Engine:* Devised a custom bubble sort algorithm to organize system processes and manage data sequentially using complex nested loops without prohibited built-in functions.
-- *Dual-Core Resource Allocation:* Engineered scheduling logic designed to split, balance, and map the sorted processing load across a simulated dual-core CPU architecture efficiently.
-- *Robust Data Validation:* Implemented a comprehensive data-checking pipeline to parse input matrices, enforce strict integrity limits, and handle anomalies before processing begins.
+- **Algorithmic Sorting Engine:** Devised a custom bubble sort algorithm to organize system processes and manage data sequentially using complex nested loops without prohibited built-in functions.
+- **Dual-Core Resource Allocation:** Engineered scheduling logic designed to split, balance, and map the sorted processing load across a simulated dual-core CPU architecture efficiently.
+- **Robust Data Validation:** Implemented a comprehensive data-checking pipeline to parse input matrices, enforce strict integrity limits, and handle anomalies before processing begins.
 
 ## File Structure
 
