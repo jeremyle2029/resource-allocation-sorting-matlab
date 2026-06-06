@@ -12,5 +12,5 @@ A custom process-scheduling and sorting application engineered in MATLAB to opti
 
 ## File Structure
 
-- Ma6.m - The main driver script that initializes the process queue, handles algorithmic sorting, and runs the scheduling lifecycle.
-- Processes.mat - The data file containing the matrix structure of system processes and execution parameters.
+- `Ma6.m` : **The main driver script** that initializes the process queue, handles algorithmic sorting, and runs the scheduling lifecycle.
+- `Processes.mat` : **The data file** containing the matrix structure of system processes and execution parameters.
